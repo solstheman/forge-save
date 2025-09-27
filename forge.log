@@ -1,0 +1,223 @@
+##########################################
+APP: Forge v.2.0.07-SNAPSHOT-09.25
+DEV: Gigabyte Technology Co., Ltd. - B760M AORUS ELITE AX (version: Default string)
+CPU: 12th Gen Intel(R) Core(TM) i7-12700KF
+RAM: 31922 MB
+OS: GNU/Linux Ubuntu 23.10 (Mantic Minotaur) build 6.5.0-44-generic x64
+##########################################
+Skin not found. Defaulting to fallback_skin.
+(ThreadUtil first call): Running on a machine with 20 cpu core(s)
+Language 'en-US' loaded successfully.
+Read cards: 31388 archived files in 0 ms (25 parts) using thread pool
+Upcoming set Lorwyn Eclipsed (ECL) dated in the future. All `upcoming` cards will be added to this set with unknown rarity.
+The card A-Baba Lysaga, Night Witch was not assigned to any set. Adding it to UNKNOWN set... to fix see res/editions/ folder. 
+The card A-Divide by Zero was not assigned to any set. Adding it to UNKNOWN set... to fix see res/editions/ folder. 
+The card A-Esika's Chariot was not assigned to any set. Adding it to UNKNOWN set... to fix see res/editions/ folder. 
+The card A-Faceless Haven was not assigned to any set. Adding it to UNKNOWN set... to fix see res/editions/ folder. 
+The card A-Goldspan Dragon was not assigned to any set. Adding it to UNKNOWN set... to fix see res/editions/ folder. 
+The card A-Hullbreaker Horror was not assigned to any set. Adding it to UNKNOWN set... to fix see res/editions/ folder. 
+The card A-Kumano Faces Kakkazan was not assigned to any set. Adding it to UNKNOWN set... to fix see res/editions/ folder. 
+The card A-Luminarch Aspirant was not assigned to any set. Adding it to UNKNOWN set... to fix see res/editions/ folder. 
+The card A-Monster Manual was not assigned to any set. Adding it to UNKNOWN set... to fix see res/editions/ folder. 
+The card Blinding Radiance was not assigned to any set. Adding it to UNKNOWN set... to fix see res/editions/ folder. 
+The card Goblin Bruiser was not assigned to any set. Adding it to UNKNOWN set... to fix see res/editions/ folder. 
+The card Ogre Painbringer was not assigned to any set. Adding it to UNKNOWN set... to fix see res/editions/ folder. 
+The card Titanic Pelagosaur was not assigned to any set. Adding it to UNKNOWN set... to fix see res/editions/ folder. 
+The card Treetop Recluse was not assigned to any set. Adding it to UNKNOWN set... to fix see res/editions/ folder. 
+Upcoming set Lorwyn Eclipsed (ECL) dated in the future. All `upcoming` cards will be added to this set with unknown rarity.
+Read cards: 765 files in 0 ms (7 parts) using thread pool
+Looking for resource ui/transition.png... Found!
+Looking for resource ui/title_bg.png... Found!
+Looking for resource ui/vs.png... Found!
+Looking for resource skin/cursor0.png... Found!
+[Controllers] added manager for application, 1 managers active
+Looking for resource ui/spellsmith.json... Found!
+Looking for resource ui/spellsmith.png... Found!
+Looking for resource skin/ui_skin.json... Found!
+Looking for resource sprites/items.atlas... Found!
+Looking for resource sprites/pixelmana.atlas... Found!
+Looking for resource skin/keys.atlas... Found!
+Looking for resource maps/tileset/compass.atlas... Found!
+Looking for resource ui/hud.json... Found!
+Looking for resource ui/hud_portrait.png... Found!
+Looking for resource ui/minimap.png... Found!
+Looking for resource ui/blank.png... Found!
+Looking for resource ui/avatarhud.png... Found!
+Looking for resource ui/minimap_player.png... Found!
+Looking for resource ui/start_menu.json... Found!
+Looking for resource world/world.json... Found!
+Looking for resource world/biomes/base.json... Found!
+Looking for resource world/biomes/colorless.json... Found!
+Looking for resource world/biomes/white.json... Found!
+Looking for resource world/biomes/blue.json... Found!
+Looking for resource world/biomes/black.json... Found!
+Looking for resource world/biomes/red.json... Found!
+Looking for resource world/biomes/green.json... Found!
+Looking for resource world/tilesets/terrain.atlas... Found!
+Looking for resource world/structures/colorless_structures.atlas... Found!
+Looking for resource world/structures/white_structures.atlas... Found!
+Looking for resource world/structures/blue_structures.atlas... Found!
+Looking for resource world/structures/black_structures.atlas... Found!
+Looking for resource world/structures/red_structures.atlas... Found!
+Looking for resource world/structures/green_structures.atlas... Found!
+Looking for resource world/points_of_interest.json... Found!
+Looking for resource ../common/maps/tileset/buildings.atlas... Found!
+Looking for resource ../common/maps/tileset/buildingsbosses.atlas... Found!
+Looking for resource ../common/maps/tileset/phyrexia/Phyrexian_Buildings.atlas... Found!
+Looking for resource maps/tileset/buildings.atlas... Found!
+Looking for resource world/enemies.json... Found!
+Looking for resource sprites/enemy/undead/zombiepoisoner.atlas... Found!
+Looking for resource world/quests.json... Found!
+Looking for resource sprites/enemy/humanoid/human/knight/death_knight_2.atlas... Found!
+Looking for resource sprites/enemy/humanoid/viashino/dreamwalker.atlas... Found!
+Looking for resource world/heroes.json... Found!
+Looking for resource sprites/heroes/avatar.atlas... Found!
+Looking for resource sprites/heroes/phyrexian_u.atlas... Found!
+Looking for resource ui/map.json... Found!
+Looking for resource world/sprites/map_sprites.json... Found!
+Looking for resource world/sprites/map_sprites.atlas... Found!
+Looking for resource sprites/enemy/humanoid/nezumi/nezumi_ninja.atlas... Found!
+Looking for resource ui/save_load.json... Found!
+Looking for resource sprites/gold.atlas... Found!
+Looking for resource sprites/enemy/undead/shade.atlas... Found!
+Looking for resource sprites/enemy/undead/ghoullarge.atlas... Found!
+Looking for resource sprites/enemy/humanoid/human/warlock/witchlarge.atlas... Found!
+Looking for resource sprites/enemy/giant/gravetitan.atlas... Found!
+Looking for resource sprites/enemy/undead/vampire_4.atlas... Found!
+Looking for resource sprites/enemy/humanoid/human/wizard/black_wiz3.atlas... Found!
+Looking for resource sprites/enemy/fiend/demon_3.atlas... Found!
+Looking up ./res/adventure/common/music/castle//./res/adventure/common/music/castle/castle1.mp3
+Looking for resource ui/sprite_markers.png... Found!
+Loading auxiliary sprites.
+Looking for resource particle_effects/sparks.p... Found!
+Looking for resource skin/cursor1.png... Found!
+Looking for resource decks/standard/shade.dck... Found!
+Looking up ./res/adventure/common/music/castle//./res/adventure/common/music/castle/castle1.mp3
+Looking for resource particle_effects/blood.p... Found!
+Looking for resource ui/items.json... Found!
+Looking for resource ui/reward.png... Found!
+Looking for resource ui/market.png... Found!
+Attempting to fetch: https://api.scryfall.com/cards/m11/109/en?format=image&version=normal
+Attempting to fetch: https://api.scryfall.com/cards/roe/132/en?format=image&version=normal
+Attempting to fetch: https://api.scryfall.com/cards/sth/58/en?format=image&version=normal
+Attempting to fetch: https://api.scryfall.com/cards/m12/96/en?format=image&version=normal
+Attempting to fetch: https://api.scryfall.com/cards/lrw/120/en?format=image&version=normal
+Attempting to fetch: https://api.scryfall.com/cards/c14/22/en?format=image&version=normal
+Attempting to fetch: https://api.scryfall.com/cards/sok/81/en?format=image&version=normal
+/home/solomon/.cache/forge/pics/cards/M12/Drifting Shade.fullborder.jpg
+/home/solomon/.cache/forge/pics/cards/SOK/Maga, Traitor to Mortals.fullborder.jpg
+/home/solomon/.cache/forge/pics/cards/C14/Flesh Carver.fullborder.jpg
+/home/solomon/.cache/forge/pics/cards/ROE/Zof Shade.fullborder.jpg
+/home/solomon/.cache/forge/pics/cards/LRW/Knucklebone Witch.fullborder.jpg
+/home/solomon/.cache/forge/pics/cards/M11/Nightwing Shade.fullborder.jpg
+/home/solomon/.cache/forge/pics/cards/SH/Dungeon Shade.fullborder.jpg
+Saved image to /home/solomon/.cache/forge/pics/cards/SOK/Maga, Traitor to Mortals.fullborder.jpg
+Saved image to /home/solomon/.cache/forge/pics/cards/ROE/Zof Shade.fullborder.jpg
+Saved image to /home/solomon/.cache/forge/pics/cards/M11/Nightwing Shade.fullborder.jpg
+Saved image to /home/solomon/.cache/forge/pics/cards/M12/Drifting Shade.fullborder.jpg
+Saved image to /home/solomon/.cache/forge/pics/cards/LRW/Knucklebone Witch.fullborder.jpg
+Saved image to /home/solomon/.cache/forge/pics/cards/C14/Flesh Carver.fullborder.jpg
+Saved image to /home/solomon/.cache/forge/pics/cards/SH/Dungeon Shade.fullborder.jpg
+Looking for resource decks/standard/ancientvampire.dck... Found!
+Attempting to fetch: https://api.scryfall.com/cards/voc/125/en?format=image&version=normal
+/home/solomon/.cache/forge/pics/cards/VOC/Cordial Vampire.fullborder.jpg
+Saved image to /home/solomon/.cache/forge/pics/cards/VOC/Cordial Vampire.fullborder.jpg
+Attempting to fetch: https://api.scryfall.com/cards/plst/RIX-88/en?format=image&version=normal
+/home/solomon/.cache/forge/pics/cards/PLIST/Twilight Prophet.fullborder.jpg
+Saved image to /home/solomon/.cache/forge/pics/cards/PLIST/Twilight Prophet.fullborder.jpg
+Attempting to fetch: https://api.scryfall.com/cards/pm10/118%E2%98%85/en?format=image&version=normal
+/home/solomon/.cache/forge/pics/cards/PM10/Vampire Nocturnus.fullborder.jpg
+Saved image to /home/solomon/.cache/forge/pics/cards/PM10/Vampire Nocturnus.fullborder.jpg
+Attempting to fetch: https://api.scryfall.com/cards/plst/TRIX-6/en?format=image&version=normal
+/home/solomon/.cache/forge/pics/tokens/PLST/TRIX-6_blessing.jpg
+Saved image to /home/solomon/.cache/forge/pics/tokens/PLST/TRIX-6_blessing.jpg
+Attempting to fetch: https://api.scryfall.com/cards/c21/147/en?format=image&version=normal
+/home/solomon/.cache/forge/pics/cards/C21/Necropolis Regent.fullborder.jpg
+Saved image to /home/solomon/.cache/forge/pics/cards/C21/Necropolis Regent.fullborder.jpg
+Looking up ./res/adventure/common/music/castle//./res/adventure/common/music/castle/castle1.mp3
+Looking up ./res/adventure/common/music/castle//./res/adventure/common/music/castle/castle1.mp3
+Looking for resource world/shops.json... Found!
+Looking for resource world/items.json... Found!
+Looking up ./res/adventure/common/music/town//./res/adventure/common/music/town/town4.mp3
+Looking for resource particle_effects/heal.p... Found!
+Looking for resource sprites/enemy/aberration/drossgladiator.atlas... Found!
+Looking for resource sprites/enemy/undead/skeleton_2.atlas... Found!
+Looking up ./res/adventure/common/music/castle//./res/adventure/common/music/castle/castle1.mp3
+Attempting to fetch: https://api.scryfall.com/cards/one/114/en?format=image&version=normal
+/home/solomon/.cache/forge/pics/cards/ONE/Vraan, Executioner Thane1.fullborder.jpg
+Saved image to /home/solomon/.cache/forge/pics/cards/ONE/Vraan, Executioner Thane1.fullborder.jpg
+Attempting to fetch: https://api.scryfall.com/cards/jmp/225/en?format=image&version=normal
+/home/solomon/.cache/forge/pics/cards/JMP/Drana, Liberator of Malakir.fullborder.jpg
+Saved image to /home/solomon/.cache/forge/pics/cards/JMP/Drana, Liberator of Malakir.fullborder.jpg
+Looking up ./res/adventure/common/music/castle//./res/adventure/common/music/castle/castle1.mp3
+Looking for resource sprites/enemy/humanoid/human/wizard/black_wiz2.atlas... Found!
+Looking up ./res/adventure/common/music/town//./res/adventure/common/music/town/town5.mp3
+Looking for resource sprites/enemy/humanoid/human/wizard/black_wizard.atlas... Found!
+Looking up ./res/adventure/common/music/castle//./res/adventure/common/music/castle/castle1.mp3
+Attempting to fetch: https://api.scryfall.com/cards/m20/105/en?format=image&version=normal
+/home/solomon/.cache/forge/pics/cards/M20/Knight of the Ebon Legion.fullborder.jpg
+Saved image to /home/solomon/.cache/forge/pics/cards/M20/Knight of the Ebon Legion.fullborder.jpg
+Attempting to fetch: https://api.scryfall.com/cards/pres/15/en?format=image&version=normal
+Failed to download card [/home/solomon/.cache/forge/pics/cards/PRES/Vito, Thorn of the Dusk Rose.full.jpg] image: https://api.scryfall.com/cards/pres/15/en?format=image&version=normal
+Attempting to fetch: https://api.scryfall.com/cards/pres/15/?format=image&version=normal
+Failed to download card [/home/solomon/.cache/forge/pics/cards/PRES/Vito, Thorn of the Dusk Rose.full.jpg] image: https://api.scryfall.com/cards/pres/15/?format=image&version=normal
+Attempting to fetch: https://api.scryfall.com/cards/c17/109/en?format=image&version=normal
+/home/solomon/.cache/forge/pics/cards/C17/Dark Impostor.fullborder.jpg
+Saved image to /home/solomon/.cache/forge/pics/cards/C17/Dark Impostor.fullborder.jpg
+Looking up ./res/adventure/common/music/castle//./res/adventure/common/music/castle/castle1.mp3
+Looking for resource sprites/enemy/undead/zombie_2.atlas... Found!
+Looking up ./res/adventure/common/music/town//./res/adventure/common/music/town/town3.mp3
+Looking for resource decks/standard/blackwizard_easy.json... Found!
+Attempting to fetch: https://api.scryfall.com/cards/rna/78/en?format=image&version=normal
+/home/solomon/.cache/forge/pics/cards/RNA/Noxious Groodion.fullborder.jpg
+Saved image to /home/solomon/.cache/forge/pics/cards/RNA/Noxious Groodion.fullborder.jpg
+Attempting to fetch: https://api.scryfall.com/cards/ice/138/en?format=image&version=normal
+/home/solomon/.cache/forge/pics/cards/IA/Knight of Stromgald.fullborder.jpg
+Saved image to /home/solomon/.cache/forge/pics/cards/IA/Knight of Stromgald.fullborder.jpg
+Attempting to fetch: https://api.scryfall.com/cards/mh2/400/en?format=image&version=normal
+/home/solomon/.cache/forge/pics/cards/MH2/Persist3.fullborder.jpg
+Saved image to /home/solomon/.cache/forge/pics/cards/MH2/Persist3.fullborder.jpg
+Attempting to fetch: https://api.scryfall.com/cards/frf/61/en?format=image&version=normal
+/home/solomon/.cache/forge/pics/cards/FRF/Ancestral Vengeance.fullborder.jpg
+Saved image to /home/solomon/.cache/forge/pics/cards/FRF/Ancestral Vengeance.fullborder.jpg
+Attempting to fetch: https://api.scryfall.com/cards/frf/77/en?format=image&version=normal
+/home/solomon/.cache/forge/pics/cards/FRF/Noxious Dragon.fullborder.jpg
+Saved image to /home/solomon/.cache/forge/pics/cards/FRF/Noxious Dragon.fullborder.jpg
+Attempting to fetch: https://api.scryfall.com/cards/por/85/en?format=image&version=normal
+Attempting to fetch: https://api.scryfall.com/cards/ptk/94/en?format=image&version=normal
+/home/solomon/.cache/forge/pics/cards/P3/Young Wei Recruits.fullborder.jpg
+/home/solomon/.cache/forge/pics/cards/PT/Craven Knight.fullborder.jpg
+Saved image to /home/solomon/.cache/forge/pics/cards/P3/Young Wei Recruits.fullborder.jpg
+Saved image to /home/solomon/.cache/forge/pics/cards/PT/Craven Knight.fullborder.jpg
+Looking up ./res/adventure/common/music/castle//./res/adventure/common/music/castle/castle1.mp3
+Attempting to fetch: https://api.scryfall.com/cards/sch/13/en?format=image&version=normal
+/home/solomon/.cache/forge/pics/cards/SCH/Gifted Aetherborn.fullborder.jpg
+Saved image to /home/solomon/.cache/forge/pics/cards/SCH/Gifted Aetherborn.fullborder.jpg
+Attempting to fetch: https://api.scryfall.com/cards/snc/88/en?format=image&version=normal
+/home/solomon/.cache/forge/pics/cards/SNC/Murder.fullborder.jpg
+Saved image to /home/solomon/.cache/forge/pics/cards/SNC/Murder.fullborder.jpg
+Attempting to fetch: https://api.scryfall.com/cards/m12/109/en?format=image&version=normal
+/home/solomon/.cache/forge/pics/cards/M12/Sorin Markov.fullborder.jpg
+Saved image to /home/solomon/.cache/forge/pics/cards/M12/Sorin Markov.fullborder.jpg
+Looking up ./res/adventure/common/music/castle//./res/adventure/common/music/castle/castle1.mp3
+Looking for resource ui/quests.json... Found!
+Looking for resource sprites/enemy/monstrosity/harpy.atlas... Found!
+Looking up ./res/adventure/common/music/town//./res/adventure/common/music/town/town5.mp3
+Looking for resource sprites/enemy/aberration/eye.atlas... Found!
+Looking for resource sprites/enemy/beast/giantfly.atlas... Found!
+Looking up ./res/adventure/common/music/castle//./res/adventure/common/music/castle/castle1.mp3
+Attempting to fetch: https://api.scryfall.com/cards/c17/102/en?format=image&version=normal
+/home/solomon/.cache/forge/pics/cards/C17/Bloodlord of Vaasgoth.fullborder.jpg
+Saved image to /home/solomon/.cache/forge/pics/cards/C17/Bloodlord of Vaasgoth.fullborder.jpg
+Attempting to fetch: https://api.scryfall.com/cards/znr/118/en?format=image&version=normal
+/home/solomon/.cache/forge/pics/cards/ZNR/Nullpriest of Oblivion1.fullborder.jpg
+Saved image to /home/solomon/.cache/forge/pics/cards/ZNR/Nullpriest of Oblivion1.fullborder.jpg
+Looking up ./res/adventure/common/music/castle//./res/adventure/common/music/castle/castle1.mp3
+Attempting to fetch: https://api.scryfall.com/cards/afr/126/en?format=image&version=normal
+/home/solomon/.cache/forge/pics/cards/AFR/Westgate Regent1.fullborder.jpg
+Saved image to /home/solomon/.cache/forge/pics/cards/AFR/Westgate Regent1.fullborder.jpg
+Looking for resource ui/deck_selector.json... Found!
+Looking for resource ui/maindeck.png... Found!
+Looking for resource ui/sideboard.png... Found!
+Looking for resource ui/binder.png... Found!
+Looking for resource ui/sell.png... Found!

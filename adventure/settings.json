@@ -1,0 +1,12 @@
+{
+"width": 1280,
+"height": 720,
+"plane": "Shandalar",
+"fullScreen": true,
+"videomode": "720p",
+"lastActiveSave": "1_save_slot.sav",
+"rewardCardAdj": 1,
+"cardTooltipAdj": 1,
+"rewardCardAdjLandscape": 1,
+"cardTooltipAdjLandscape": 1
+}

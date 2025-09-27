@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<layout serial="2018090601">
+	<cell x="0.77419" y="0.0" w="0.22581" h="0.37738" sel="CARD_DETAIL">
+		<doc>CARD_DETAIL</doc>
+	</cell>
+	<cell x="0.77419" y="0.37738" w="0.22581" h="0.62262" sel="CARD_PICTURE">
+		<doc>CARD_PICTURE</doc>
+	</cell>
+	<cell x="0.0" y="0.0" w="0.38722" h="1.0" sel="EDITOR_CATALOG">
+		<doc>EDITOR_CATALOG</doc>
+		<doc>EDITOR_LOG</doc>
+	</cell>
+	<cell x="0.38722" y="0.0" w="0.38748" h="1.0" sel="EDITOR_CURRENTDECK">
+		<doc>EDITOR_CURRENTDECK</doc>
+		<doc>EDITOR_STATISTICS</doc>
+		<doc>EDITOR_PROBABILITIES</doc>
+	</cell>
+</layout>
