@@ -65,9 +65,6 @@ Looking for resource ../common/maps/tileset/buildings.atlas... Found!
 Looking for resource ../common/maps/tileset/buildingsbosses.atlas... Found!
 Looking for resource ../common/maps/tileset/phyrexia/Phyrexian_Buildings.atlas... Found!
 Looking for resource maps/tileset/buildings.atlas... Found!
-Looking for resource world/enemies.json... Found!
-Looking for resource sprites/enemy/undead/skeleton_2.atlas... Found!
-Looking for resource sprites/enemy/aberration/eye.atlas... Found!
 Looking for resource world/heroes.json... Found!
 Looking for resource sprites/heroes/avatar.atlas... Found!
 Looking for resource sprites/heroes/phyrexian_u.atlas... Found!
@@ -75,54 +72,121 @@ Looking for resource ui/map.json... Found!
 Looking for resource world/sprites/map_sprites.json... Found!
 Looking for resource world/sprites/map_sprites.atlas... Found!
 Looking for resource world/quests.json... Found!
-Looking for resource sprites/enemy/humanoid/human/knight/death_knight_2.atlas... Found!
-Looking for resource ui/save_load.json... Found!
-Looking for resource sprites/gold.atlas... Found!
-Looking for resource sprites/enemy/humanoid/human/warlock/witchlarge.atlas... Found!
-Looking for resource sprites/enemy/giant/gravetitan.atlas... Found!
-Looking for resource sprites/enemy/humanoid/human/wizard/black_wiz3.atlas... Found!
-Looking for resource sprites/enemy/fiend/demon_3.atlas... Found!
-Looking up ./res/adventure/common/music/castle//./res/adventure/common/music/castle/castle1.mp3
-Looking for resource ui/sprite_markers.png... Found!
-Loading auxiliary sprites.
+Looking for resource world/enemies.json... Found!
+Looking for resource sprites/enemy/monstrosity/harpy.atlas... Found!
+Looking for resource sprites/enemy/humanoid/merfolk/merfolk_lord.atlas... Found!
+Looking for resource sprites/enemy/undead/vampire_2.atlas... Found!
 Looking for resource particle_effects/sparks.p... Found!
 Looking for resource skin/cursor1.png... Found!
-Looking for resource decks/standard/witch.dck... Found!
-Attempting to fetch: https://api.scryfall.com/cards/mid/94/en?format=image&version=normal&face=front
-/home/solomon/.cache/forge/pics/cards/MID/Curse of Leeches1.fullborder.jpg
-Saved image to /home/solomon/.cache/forge/pics/cards/MID/Curse of Leeches1.fullborder.jpg
-Looking for resource skin/cursor2.png... Found!
-Attempting to fetch: https://api.scryfall.com/cards/mid/94/en?format=image&version=normal&face=back
-/home/solomon/.cache/forge/pics/cards/MID/Leeching Lurker1.fullborder.jpg
-Saved image to /home/solomon/.cache/forge/pics/cards/MID/Leeching Lurker1.fullborder.jpg
-Attempting to fetch: https://api.scryfall.com/cards/jmp/18/en?format=image&version=normal
-/home/solomon/.cache/forge/pics/cards/JMP/Witch of the Moors.fullborder.jpg
-Saved image to /home/solomon/.cache/forge/pics/cards/JMP/Witch of the Moors.fullborder.jpg
-Attempting to fetch: https://api.scryfall.com/cards/dmu/89/en?format=image&version=normal
-/home/solomon/.cache/forge/pics/cards/DMU/Cut Down1.fullborder.jpg
-Saved image to /home/solomon/.cache/forge/pics/cards/DMU/Cut Down1.fullborder.jpg
-Active player is no longer in the game...
-Looking up ./res/adventure/common/music/castle//./res/adventure/common/music/castle/castle1.mp3
-Looking for resource ui/deck_selector.json... Found!
-Looking for resource sprites/enemy/fiend/juggler.atlas... Found!
-Looking for resource world/shops.json... Found!
-Looking for resource world/items.json... Found!
-Looking up ./res/adventure/common/music/town//./res/adventure/common/music/town/town7.mp3
-Looking for resource particle_effects/heal.p... Found!
-Looking for resource decks/standard/death_knight.dck... Found!
-Attempting to fetch: https://api.scryfall.com/cards/cst/377/en?format=image&version=normal
-/home/solomon/.cache/forge/pics/cards/CST/Swamp3.fullborder.jpg
-Saved image to /home/solomon/.cache/forge/pics/cards/CST/Swamp3.fullborder.jpg
+Looking for resource ui/save_load.json... Found!
+Looking for resource decks/standard/merfolk_lord2.dck... Found!
+Attempting to fetch: https://api.scryfall.com/cards/lrw/287/en?format=image&version=normal
+/home/solomon/.cache/forge/pics/cards/LRW/Island2.fullborder.jpg
+Saved image to /home/solomon/.cache/forge/pics/cards/LRW/Island2.fullborder.jpg
+Attempting to fetch: https://api.scryfall.com/cards/znr/271/en?format=image&version=normal
+/home/solomon/.cache/forge/pics/cards/ZNR/Island3.fullborder.jpg
+Saved image to /home/solomon/.cache/forge/pics/cards/ZNR/Island3.fullborder.jpg
+Looking for resource decks/standard/harpy.dck... Found!
+Attempting to fetch: https://api.scryfall.com/cards/thb/84/en?format=image&version=normal
+/home/solomon/.cache/forge/pics/cards/THB/Aphemia, the Cacophony1.fullborder.jpg
+Saved image to /home/solomon/.cache/forge/pics/cards/THB/Aphemia, the Cacophony1.fullborder.jpg
 Looking for resource particle_effects/blood.p... Found!
 Looking for resource ui/items.json... Found!
 Looking for resource ui/reward.png... Found!
 Looking for resource ui/market.png... Found!
-Attempting to fetch: https://api.scryfall.com/cards/dde/9/en?format=image&version=normal
-/home/solomon/.cache/forge/pics/cards/DDE/Sanguine Guard.fullborder.jpg
-Saved image to /home/solomon/.cache/forge/pics/cards/DDE/Sanguine Guard.fullborder.jpg
-Looking for resource sprites/enemy/beast/wildrat.atlas... Found!
-Looking up ./res/adventure/common/music/castle//./res/adventure/common/music/castle/castle1.mp3
-Attempting to fetch: https://api.scryfall.com/cards/c21/46/en?format=image&version=normal
-/home/solomon/.cache/forge/pics/cards/C21/Veinwitch Coven1.fullborder.jpg
-Saved image to /home/solomon/.cache/forge/pics/cards/C21/Veinwitch Coven1.fullborder.jpg
-Looking up ./res/adventure/common/music/castle//./res/adventure/common/music/castle/castle1.mp3
+Attempting to fetch: https://api.scryfall.com/cards/scd/273/en?format=image&version=normal
+/home/solomon/.cache/forge/pics/cards/SCD/Sky Diamond.fullborder.jpg
+Saved image to /home/solomon/.cache/forge/pics/cards/SCD/Sky Diamond.fullborder.jpg
+Attempting to fetch: https://api.scryfall.com/cards/dom/256/en?format=image&version=normal
+/home/solomon/.cache/forge/pics/cards/DOM/Island3.fullborder.jpg
+Saved image to /home/solomon/.cache/forge/pics/cards/DOM/Island3.fullborder.jpg
+Attempting to fetch: https://api.scryfall.com/cards/roe/62/en?format=image&version=normal
+Attempting to fetch: https://api.scryfall.com/cards/c19/11/en?format=image&version=normal
+/home/solomon/.cache/forge/pics/cards/ROE/Dormant Gomazoa.fullborder.jpg
+/home/solomon/.cache/forge/pics/cards/C19/Sudden Substitution.fullborder.jpg
+Saved image to /home/solomon/.cache/forge/pics/cards/ROE/Dormant Gomazoa.fullborder.jpg
+Saved image to /home/solomon/.cache/forge/pics/cards/C19/Sudden Substitution.fullborder.jpg
+Looking for resource sprites/enemy/aberration/drossgladiator.atlas... Found!
+Looking for resource decks/standard/vampire.json... Found!
+Attempting to fetch: https://api.scryfall.com/cards/mh3/88/en?format=image&version=normal
+/home/solomon/.cache/forge/pics/cards/MH3/Dreamdrinker Vampire.fullborder.jpg
+Saved image to /home/solomon/.cache/forge/pics/cards/MH3/Dreamdrinker Vampire.fullborder.jpg
+Attempting to fetch: https://api.scryfall.com/cards/zen/100/en?format=image&version=normal
+/home/solomon/.cache/forge/pics/cards/ZEN/Malakir Bloodwitch.fullborder.jpg
+Saved image to /home/solomon/.cache/forge/pics/cards/ZEN/Malakir Bloodwitch.fullborder.jpg
+Correcting zone for Malakir Bloodwitch (57)
+Looking for resource sprites/enemy/fiend/demon_5.atlas... Found!
+Looking for resource sprites/enemy/humanoid/human/wizard/black_wiz2.atlas... Found!
+Looking for resource world/shops.json... Found!
+Parsing from main code: fromSheet("MB1 White CommonUncommon")
+Attempting to lookup: MB1 White CommonUncommon
+Parsing from main code: fromSheet("MB1 Blue CommonUncommon")
+Attempting to lookup: MB1 Blue CommonUncommon
+Parsing from main code: fromSheet("MB1 Black CommonUncommon")
+Attempting to lookup: MB1 Black CommonUncommon
+Parsing from main code: fromSheet("MB1 Green CommonUncommon")
+Attempting to lookup: MB1 Green CommonUncommon
+Parsing from main code: fromSheet("MB1 Red CommonUncommon")
+Attempting to lookup: MB1 Red CommonUncommon
+Parsing from main code: fromSheet("MB1 Multi CommonUncommon")
+Attempting to lookup: MB1 Multi CommonUncommon
+Parsing from main code: fromSheet("MB1 Artifact Land CommonUncommon")
+Attempting to lookup: MB1 Artifact Land CommonUncommon
+Parsing from main code: fromSheet("MB1 Pre M15")
+Attempting to lookup: MB1 Pre M15
+Parsing from main code: fromSheet("MB1 Post M15 RareMythic")
+Attempting to lookup: MB1 Post M15 RareMythic
+Parsing from main code: fromSheet("MB1 Foils")
+Attempting to lookup: MB1 Foils
+Parsing from main code: fromsheet("LCI cards")
+Attempting to lookup: LCI cards
+Parsing from main code: fromSheet("LCI cards")
+Attempting to lookup: LCI cards
+Parsing from main code: fromSheet("LCI double-face")
+Attempting to lookup: LCI double-face
+Parsing from main code: fromSheet("LCI cards")
+Attempting to lookup: LCI cards
+Parsing from main code: fromSheet("LCI lands")
+Attempting to lookup: LCI lands
+Parsing from main code: fromSheet("KLD cards")
+Attempting to lookup: KLD cards
+Parsing from main code: fromSheet("KLD cards")
+Attempting to lookup: KLD cards
+Parsing from main code: fromSheet("KLD cards")
+Attempting to lookup: KLD cards
+Parsing from main code: fromSheet("DOM cards")
+Attempting to lookup: DOM cards
+Parsing from main code: fromSheet("DOM cards")
+Attempting to lookup: DOM cards
+Parsing from main code: fromSheet("DOM cards")
+Attempting to lookup: DOM cards
+Looking for resource world/items.json... Found!
+Looking up ./res/adventure/common/music/town//./res/adventure/common/music/town/town3.mp3
+Looking for resource particle_effects/heal.p... Found!
+Attempting to fetch: https://api.scryfall.com/cards/soi/142/en?format=image&version=normal
+Attempting to fetch: https://api.scryfall.com/cards/snc/73/en?format=image&version=normal
+Attempting to fetch: https://api.scryfall.com/cards/roe/97/en?format=image&version=normal
+Attempting to fetch: https://api.scryfall.com/cards/xln/9/en?format=image&version=normal
+Attempting to fetch: https://api.scryfall.com/cards/ogw/153/en?format=image&version=normal
+Attempting to fetch: https://api.scryfall.com/cards/snc/A-98/en?format=image&version=normal
+Attempting to fetch: https://api.scryfall.com/cards/lci/313/en?format=image&version=normal&face=front
+Attempting to fetch: https://api.scryfall.com/cards/lci/313/en?format=image&version=normal&face=back
+/home/solomon/.cache/forge/pics/cards/LCI/Throne of the Grim Captain2.fullborder.jpg
+/home/solomon/.cache/forge/pics/cards/SOI/Twins of Maurer Estate.fullborder.jpg
+/home/solomon/.cache/forge/pics/cards/SNC/A-Vampire Scrivener.fullborder.jpg
+/home/solomon/.cache/forge/pics/cards/ROE/Bloodrite Invoker.fullborder.jpg
+/home/solomon/.cache/forge/pics/cards/XLN/Duskborne Skymarcher.fullborder.jpg
+/home/solomon/.cache/forge/pics/cards/LCI/The Grim Captain2.fullborder.jpg
+/home/solomon/.cache/forge/pics/cards/SNC/Cutthroat Contender.fullborder.jpg
+/home/solomon/.cache/forge/pics/cards/OGW/Cliffhaven Vampire.fullborder.jpg
+Saved image to /home/solomon/.cache/forge/pics/cards/SNC/A-Vampire Scrivener.fullborder.jpg
+Saved image to /home/solomon/.cache/forge/pics/cards/SOI/Twins of Maurer Estate.fullborder.jpg
+Saved image to /home/solomon/.cache/forge/pics/cards/LCI/Throne of the Grim Captain2.fullborder.jpg
+Saved image to /home/solomon/.cache/forge/pics/cards/XLN/Duskborne Skymarcher.fullborder.jpg
+Saved image to /home/solomon/.cache/forge/pics/cards/ROE/Bloodrite Invoker.fullborder.jpg
+Saved image to /home/solomon/.cache/forge/pics/cards/SNC/Cutthroat Contender.fullborder.jpg
+Saved image to /home/solomon/.cache/forge/pics/cards/LCI/The Grim Captain2.fullborder.jpg
+Backface fetched: c:Throne of the Grim Captain|LCI|2$alt
+Saved image to /home/solomon/.cache/forge/pics/cards/OGW/Cliffhaven Vampire.fullborder.jpg
+Looking for resource sprites/enemy/undead/ghost_2.atlas... Found!
+Looking for resource ui/quests.json... Found!
