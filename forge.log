@@ -66,28 +66,18 @@ Looking for resource ../common/maps/tileset/buildingsbosses.atlas... Found!
 Looking for resource ../common/maps/tileset/phyrexia/Phyrexian_Buildings.atlas... Found!
 Looking for resource maps/tileset/buildings.atlas... Found!
 Looking for resource world/enemies.json... Found!
-Looking for resource sprites/enemy/humanoid/human/wizard/black_wizard.atlas... Found!
-Looking for resource sprites/enemy/humanoid/goblin/goblin.atlas... Found!
+Looking for resource sprites/enemy/humanoid/human/wizard/black_wiz2.atlas... Found!
+Looking for resource sprites/enemy/humanoid/goblin/wolf_rider_2.atlas... Found!
+Looking for resource sprites/enemy/undead/lich.atlas... Found!
 Looking for resource world/heroes.json... Found!
 Looking for resource sprites/heroes/avatar.atlas... Found!
 Looking for resource sprites/heroes/phyrexian_u.atlas... Found!
 Looking for resource ui/map.json... Found!
 Looking for resource world/sprites/map_sprites.json... Found!
 Looking for resource world/sprites/map_sprites.atlas... Found!
-Looking for resource ui/quests.json... Found!
 Looking for resource world/quests.json... Found!
-Looking for resource sprites/enemy/undead/zombie_2.atlas... Found!
-Looking for resource sprites/enemy/humanoid/goblin/wolf_rider.atlas... Found!
-Looking for resource particle_effects/sparks.p... Found!
-Looking for resource skin/cursor1.png... Found!
 Looking for resource ui/save_load.json... Found!
-Looking for resource decks/standard/goblin_warrior_easy.dck... Found!
-Attempting to fetch: https://api.scryfall.com/cards/tznr/11/en?format=image&version=normal
-/home/solomon/.cache/forge/pics/tokens/ZNR/11_c_0_1_a_goblin_construct_noblock_ping.jpg
-Saved image to /home/solomon/.cache/forge/pics/tokens/ZNR/11_c_0_1_a_goblin_construct_noblock_ping.jpg
-Attempting to fetch: https://api.scryfall.com/cards/plst/GNT-39/en?format=image&version=normal
-/home/solomon/.cache/forge/pics/cards/PLIST/Dragon Fodder.fullborder.jpg
-Saved image to /home/solomon/.cache/forge/pics/cards/PLIST/Dragon Fodder.fullborder.jpg
+Looking up ./res/adventure/common/music/cave//./res/adventure/common/music/cave/cave2.mp3
 Looking for resource world/shops.json... Found!
 Parsing from main code: fromSheet("MB1 White CommonUncommon")
 Attempting to lookup: MB1 White CommonUncommon
@@ -132,294 +122,196 @@ Attempting to lookup: DOM cards
 Parsing from main code: fromSheet("DOM cards")
 Attempting to lookup: DOM cards
 Looking for resource world/items.json... Found!
-Looking up ./res/adventure/common/music/town//./res/adventure/common/music/town/town4.mp3
-Looking for resource particle_effects/heal.p... Found!
-Looking for resource decks/standard/goblin_mid.json... Found!
-Attempting to fetch: https://api.scryfall.com/cards/som/104/en?format=image&version=normal
-/home/solomon/.cache/forge/pics/cards/SOM/Spikeshot Elder.fullborder.jpg
-Saved image to /home/solomon/.cache/forge/pics/cards/SOM/Spikeshot Elder.fullborder.jpg
-Attempting to fetch: https://api.scryfall.com/cards/lgn/101/en?format=image&version=normal
-/home/solomon/.cache/forge/pics/cards/LE/Goblin Lookout.fullborder.jpg
-Saved image to /home/solomon/.cache/forge/pics/cards/LE/Goblin Lookout.fullborder.jpg
-Attempting to fetch: https://api.scryfall.com/cards/fdn/537/en?format=image&version=normal
-/home/solomon/.cache/forge/pics/cards/FDN/Dropkick Bomber.fullborder.jpg
-Saved image to /home/solomon/.cache/forge/pics/cards/FDN/Dropkick Bomber.fullborder.jpg
-Attempting to fetch: https://api.scryfall.com/cards/uds/84/en?format=image&version=normal
-/home/solomon/.cache/forge/pics/cards/UD/Goblin Gardener.fullborder.jpg
-Saved image to /home/solomon/.cache/forge/pics/cards/UD/Goblin Gardener.fullborder.jpg
-Attempting to fetch: https://api.scryfall.com/cards/sch/36/en?format=image&version=normal
-/home/solomon/.cache/forge/pics/cards/SCH/Gleeful Demolition.fullborder.jpg
-Saved image to /home/solomon/.cache/forge/pics/cards/SCH/Gleeful Demolition.fullborder.jpg
-Attempting to fetch: https://api.scryfall.com/cards/ltr/773/en?format=image&version=normal
-/home/solomon/.cache/forge/pics/cards/LTR/Moria Marauder4.fullborder.jpg
-Saved image to /home/solomon/.cache/forge/pics/cards/LTR/Moria Marauder4.fullborder.jpg
-Attempting to fetch: https://api.scryfall.com/cards/m3c/113/en?format=image&version=normal
-/home/solomon/.cache/forge/pics/cards/M3C/Siege-Gang Lieutenant2.fullborder.jpg
-Saved image to /home/solomon/.cache/forge/pics/cards/M3C/Siege-Gang Lieutenant2.fullborder.jpg
-Looking for resource particle_effects/blood.p... Found!
+Looking up ./res/adventure/common/music/town//./res/adventure/common/music/town/town2.mp3
 Looking for resource ui/items.json... Found!
 Looking for resource ui/reward.png... Found!
 Looking for resource ui/market.png... Found!
-Attempting to fetch: https://api.scryfall.com/cards/ons/191/en?format=image&version=normal
-Attempting to fetch: https://api.scryfall.com/cards/rav/127/en?format=image&version=normal
-/home/solomon/.cache/forge/pics/cards/ON/Brightstone Ritual.fullborder.jpg
-/home/solomon/.cache/forge/pics/cards/RAV/Goblin Fire Fiend.fullborder.jpg
-Saved image to /home/solomon/.cache/forge/pics/cards/ON/Brightstone Ritual.fullborder.jpg
-Saved image to /home/solomon/.cache/forge/pics/cards/RAV/Goblin Fire Fiend.fullborder.jpg
-Looking for resource sprites/enemy/humanoid/goblin/goblin_3.atlas... Found!
-Looking for resource sprites/enemy/humanoid/goblin/goblin_4.atlas... Found!
-Looking for resource decks/standard/evilgoblin.dck... Found!
-Attempting to fetch: https://api.scryfall.com/cards/lci/289/en?format=image&version=normal
-/home/solomon/.cache/forge/pics/cards/LCI/Swamp1.fullborder.jpg
-Saved image to /home/solomon/.cache/forge/pics/cards/LCI/Swamp1.fullborder.jpg
-Attempting to fetch: https://api.scryfall.com/cards/lci/399/en?format=image&version=normal
-/home/solomon/.cache/forge/pics/cards/LCI/Mountain2.fullborder.jpg
-Saved image to /home/solomon/.cache/forge/pics/cards/LCI/Mountain2.fullborder.jpg
-Attempting to fetch: https://api.scryfall.com/cards/lrw/123/en?format=image&version=normal
-/home/solomon/.cache/forge/pics/cards/LRW/Mad Auntie.fullborder.jpg
-Saved image to /home/solomon/.cache/forge/pics/cards/LRW/Mad Auntie.fullborder.jpg
-Attempting to fetch: https://api.scryfall.com/cards/lrw/101/en?format=image&version=normal
-/home/solomon/.cache/forge/pics/cards/LRW/Boggart Birth Rite.fullborder.jpg
-Saved image to /home/solomon/.cache/forge/pics/cards/LRW/Boggart Birth Rite.fullborder.jpg
-Attempting to fetch: https://api.scryfall.com/cards/pm15/145/en?format=image&version=normal
-/home/solomon/.cache/forge/pics/cards/PM15/Goblin Rabblemaster.fullborder.jpg
-Saved image to /home/solomon/.cache/forge/pics/cards/PM15/Goblin Rabblemaster.fullborder.jpg
-Attempting to fetch: https://api.scryfall.com/cards/tktk/7/en?format=image&version=normal
-/home/solomon/.cache/forge/pics/tokens/KTK/7_r_1_1_goblin_haste.jpg
-Saved image to /home/solomon/.cache/forge/pics/tokens/KTK/7_r_1_1_goblin_haste.jpg
-Attempting to fetch: https://api.scryfall.com/cards/afr/147/en?format=image&version=normal
-Attempting to fetch: https://api.scryfall.com/cards/akh/239/en?format=image&version=normal
-/home/solomon/.cache/forge/pics/cards/AFR/Hobgoblin Bandit Lord1.fullborder.jpg
-Saved image to /home/solomon/.cache/forge/pics/cards/AFR/Hobgoblin Bandit Lord1.fullborder.jpg
-/home/solomon/.cache/forge/pics/cards/AKH/Canyon Slough.fullborder.jpg
-Saved image to /home/solomon/.cache/forge/pics/cards/AKH/Canyon Slough.fullborder.jpg
-Looking for resource sprites/enemy/monstrosity/harpy.atlas... Found!
-Looking for resource sprites/enemy/humanoid/goblin/wolf_rider_2.atlas... Found!
-Parsing from main code: fromSheet("RIX cards")
-Attempting to lookup: RIX cards
-Parsing from main code: fromSheet("RIX cards")
-Attempting to lookup: RIX cards
-Parsing from main code: fromSheet("RIX cards")
-Attempting to lookup: RIX cards
-Parsing from main code: fromSheet("RIX Basic Lands")
-Attempting to lookup: RIX Basic Lands
-Parsing from main code: fromSheet("XLN cards")
-Attempting to lookup: XLN cards
-Parsing from main code: fromSheet("XLN cards")
-Attempting to lookup: XLN cards
-Parsing from main code: fromSheet("XLN cards")
-Attempting to lookup: XLN cards
-Parsing from main code: fromsheet("KTK cards")
-Attempting to lookup: KTK cards
-Parsing from main code: fromsheet("KTK cards")
-Attempting to lookup: KTK cards
-Parsing from main code: fromsheet("KTK cards")
-Attempting to lookup: KTK cards
-Parsing from main code: fromSheet("CN2 cards")
-Attempting to lookup: CN2 cards
-Parsing from main code: fromSheet("CN2 Draft Matters")
-Attempting to lookup: CN2 Draft Matters
-Parsing from main code: fromSheet("BFZ cards")
-Attempting to lookup: BFZ cards
-Parsing from main code: fromSheet("BFZ cards")
-Attempting to lookup: BFZ cards
-Parsing from main code: fromSheet("BFZ cards")
-Attempting to lookup: BFZ cards
-Looking up ./res/adventure/common/music/town//./res/adventure/common/music/town/town3.mp3
-Looking up ./res/adventure/common/music/town//./res/adventure/common/music/town/town3.mp3
-Looking for resource sprites/enemy/humanoid/human/wizard/black_wiz2.atlas... Found!
-Looking for resource decks/standard/harpy.dck... Found!
-Looking for resource decks/standard/goblin_chief_medium.dck... Found!
-Attempting to fetch: https://api.scryfall.com/cards/plst/DD1-58/en?format=image&version=normal
-/home/solomon/.cache/forge/pics/cards/PLIST/Goblin Burrows.fullborder.jpg
-Saved image to /home/solomon/.cache/forge/pics/cards/PLIST/Goblin Burrows.fullborder.jpg
-Attempting to fetch: https://api.scryfall.com/cards/ltc/228/en?format=image&version=normal
-Attempting to fetch: https://api.scryfall.com/cards/gk1/82/en?format=image&version=normal
-Attempting to fetch: https://api.scryfall.com/cards/dka/99/en?format=image&version=normal
-/home/solomon/.cache/forge/pics/cards/LTC/Siege-Gang Commander.fullborder.jpg
-Saved image to /home/solomon/.cache/forge/pics/cards/LTC/Siege-Gang Commander.fullborder.jpg
-/home/solomon/.cache/forge/pics/cards/DKA/Moonveil Dragon.fullborder.jpg
-/home/solomon/.cache/forge/pics/cards/GK1/Legion Loyalist.fullborder.jpg
-Saved image to /home/solomon/.cache/forge/pics/cards/DKA/Moonveil Dragon.fullborder.jpg
-Saved image to /home/solomon/.cache/forge/pics/cards/GK1/Legion Loyalist.fullborder.jpg
-Looking up ./res/adventure/common/music/town//./res/adventure/common/music/town/town2.mp3
-Attempting to fetch: https://api.scryfall.com/cards/znr/101/en?format=image&version=normal
-Attempting to fetch: https://api.scryfall.com/cards/clu/38/en?format=image&version=normal
-Attempting to fetch: https://api.scryfall.com/cards/prm/65662/en?format=image&version=normal
-Attempting to fetch: https://api.scryfall.com/cards/prm/90078/en?format=image&version=normal
-Attempting to fetch: https://api.scryfall.com/cards/c19/37/en?format=image&version=normal
-/home/solomon/.cache/forge/pics/cards/ZNR/Expedition Skulker.fullborder.jpg
-/home/solomon/.cache/forge/pics/cards/C19/Anje Falkenrath.fullborder.jpg
-/home/solomon/.cache/forge/pics/cards/CLU/Memory Vampire.fullborder.jpg
-/home/solomon/.cache/forge/pics/cards/PRM/Bishop of Rebirth.fullborder.jpg
-/home/solomon/.cache/forge/pics/cards/PRM/Marshland Bloodcaster.fullborder.jpg
-Saved image to /home/solomon/.cache/forge/pics/cards/ZNR/Expedition Skulker.fullborder.jpg
-Saved image to /home/solomon/.cache/forge/pics/cards/C19/Anje Falkenrath.fullborder.jpg
-Saved image to /home/solomon/.cache/forge/pics/cards/PRM/Bishop of Rebirth.fullborder.jpg
-Saved image to /home/solomon/.cache/forge/pics/cards/CLU/Memory Vampire.fullborder.jpg
-Saved image to /home/solomon/.cache/forge/pics/cards/PRM/Marshland Bloodcaster.fullborder.jpg
-Attempting to fetch: https://api.scryfall.com/cards/mkm/78/en?format=image&version=normal
-Attempting to fetch: https://api.scryfall.com/cards/avr/139/en?format=image&version=normal
-Attempting to fetch: https://api.scryfall.com/cards/otj/195/en?format=image&version=normal
-Attempting to fetch: https://api.scryfall.com/cards/xln/91/en?format=image&version=normal
-Attempting to fetch: https://api.scryfall.com/cards/spm/257/en?format=image&version=normal
-/home/solomon/.cache/forge/pics/cards/MKM/Basilica Stalker.fullborder.jpg
-/home/solomon/.cache/forge/pics/cards/XLN/Bishop of the Bloodstained.fullborder.jpg
-/home/solomon/.cache/forge/pics/cards/SPM/Morlun, Devourer of Spiders2.fullborder.jpg
-/home/solomon/.cache/forge/pics/cards/AVR/Havengul Vampire.fullborder.jpg
-Saved image to /home/solomon/.cache/forge/pics/cards/MKM/Basilica Stalker.fullborder.jpg
-/home/solomon/.cache/forge/pics/cards/OTJ/Baron Bertram Graywater.fullborder.jpg
-Saved image to /home/solomon/.cache/forge/pics/cards/XLN/Bishop of the Bloodstained.fullborder.jpg
-Saved image to /home/solomon/.cache/forge/pics/cards/SPM/Morlun, Devourer of Spiders2.fullborder.jpg
-Saved image to /home/solomon/.cache/forge/pics/cards/AVR/Havengul Vampire.fullborder.jpg
-Saved image to /home/solomon/.cache/forge/pics/cards/OTJ/Baron Bertram Graywater.fullborder.jpg
-Fetching from [https://downloads.cardforge.org/images/products/boosters/DTK_1.jpg]
-Destination File /home/solomon/.cache/forge/pics/boosters/DTK_1.jpg exists: false
-Fetching from [https://downloads.cardforge.org/images/products/boosters/GTC_2.jpg]
-Destination File /home/solomon/.cache/forge/pics/boosters/GTC_2.jpg exists: false
-Fetching from [https://downloads.cardforge.org/images/products/boosters/WTH.jpg]
-Destination File /home/solomon/.cache/forge/pics/boosters/WTH.jpg exists: false
-Fetching from [https://downloads.cardforge.org/images/products/boosters/KLD_2.jpg]
-Destination File /home/solomon/.cache/forge/pics/boosters/KLD_2.jpg exists: false
-Fetching from [https://downloads.cardforge.org/images/products/boosters/DOM_1.jpg]
-Destination File /home/solomon/.cache/forge/pics/boosters/DOM_1.jpg exists: false
-Fetching from [https://downloads.cardforge.org/images/products/boosters/STH.jpg]
-Destination File /home/solomon/.cache/forge/pics/boosters/STH.jpg exists: false
-Looking for resource ui/deck_selector.json... Found!
-Looking for resource ui/maindeck.png... Found!
-Looking for resource ui/sideboard.png... Found!
-Looking for resource ui/binder.png... Found!
-Looking for resource ui/sell.png... Found!
-Attempting to fetch: https://api.scryfall.com/cards/pres/9/en?format=image&version=normal
-Failed to download card [/home/solomon/.cache/forge/pics/cards/PRES/Welcoming Vampire.full.jpg] image: https://api.scryfall.com/cards/pres/9/en?format=image&version=normal
-Attempting to fetch: https://api.scryfall.com/cards/pres/9/?format=image&version=normal
-Failed to download card [/home/solomon/.cache/forge/pics/cards/PRES/Welcoming Vampire.full.jpg] image: https://api.scryfall.com/cards/pres/9/?format=image&version=normal
-Looking for resource sprites/enemy/undead/lich.atlas... Found!
-Looking for resource sprites/enemy/dragon/bonedragon.atlas... Found!
+Attempting to fetch: https://api.scryfall.com/cards/p02/1/en?format=image&version=normal
+Attempting to fetch: https://api.scryfall.com/cards/lrw/240/en?format=image&version=normal
+Attempting to fetch: https://api.scryfall.com/cards/fin/534/en?format=image&version=normal
+/home/solomon/.cache/forge/pics/cards/FIN/Seifer Almasy4.fullborder.jpg
+/home/solomon/.cache/forge/pics/cards/LRW/Vigor.fullborder.jpg
+/home/solomon/.cache/forge/pics/cards/P2/Alaborn Cavalier.fullborder.jpg
+Saved image to /home/solomon/.cache/forge/pics/cards/FIN/Seifer Almasy4.fullborder.jpg
+Saved image to /home/solomon/.cache/forge/pics/cards/LRW/Vigor.fullborder.jpg
+Saved image to /home/solomon/.cache/forge/pics/cards/P2/Alaborn Cavalier.fullborder.jpg
+Attempting to fetch: https://api.scryfall.com/cards/mh2/107/en?format=image&version=normal
+Attempting to fetch: https://api.scryfall.com/cards/m15/113/en?format=image&version=normal
+Attempting to fetch: https://api.scryfall.com/cards/aer/74/en?format=image&version=normal
+Attempting to fetch: https://api.scryfall.com/cards/prm/36875/en?format=image&version=normal
+Attempting to fetch: https://api.scryfall.com/cards/lcc/70/en?format=image&version=normal
+Attempting to fetch: https://api.scryfall.com/cards/prm/42880/en?format=image&version=normal
+Attempting to fetch: https://api.scryfall.com/cards/lcc/26/en?format=image&version=normal
+/home/solomon/.cache/forge/pics/cards/MH2/Vermin Gorger.fullborder.jpg
+/home/solomon/.cache/forge/pics/cards/AER/Yahenni, Undying Partisan.fullborder.jpg
+/home/solomon/.cache/forge/pics/cards/LCC/Carmen, Cruel Skymarcher2.fullborder.jpg
+Saved image to /home/solomon/.cache/forge/pics/cards/MH2/Vermin Gorger.fullborder.jpg
+/home/solomon/.cache/forge/pics/cards/LCC/Charismatic Conqueror2.fullborder.jpg
+Saved image to /home/solomon/.cache/forge/pics/cards/AER/Yahenni, Undying Partisan.fullborder.jpg
+/home/solomon/.cache/forge/pics/cards/M15/Shadowcloak Vampire.fullborder.jpg
+Saved image to /home/solomon/.cache/forge/pics/cards/LCC/Carmen, Cruel Skymarcher2.fullborder.jpg
+/home/solomon/.cache/forge/pics/cards/PRM/Elite Inquisitor.fullborder.jpg
+Saved image to /home/solomon/.cache/forge/pics/cards/LCC/Charismatic Conqueror2.fullborder.jpg
+/home/solomon/.cache/forge/pics/cards/PRM/Guul Draz Assassin.fullborder.jpg
+Saved image to /home/solomon/.cache/forge/pics/cards/PRM/Elite Inquisitor.fullborder.jpg
+Saved image to /home/solomon/.cache/forge/pics/cards/M15/Shadowcloak Vampire.fullborder.jpg
+Saved image to /home/solomon/.cache/forge/pics/cards/PRM/Guul Draz Assassin.fullborder.jpg
+Attempting to fetch: https://api.scryfall.com/cards/chk/25/en?format=image&version=normal
+Attempting to fetch: https://api.scryfall.com/cards/j22/4/en?format=image&version=normal
+Attempting to fetch: https://api.scryfall.com/cards/dom/137/en?format=image&version=normal
+Attempting to fetch: https://api.scryfall.com/cards/fut/157/en?format=image&version=normal
+Attempting to fetch: https://api.scryfall.com/cards/prm/90248/en?format=image&version=normal&face=front
+Attempting to fetch: https://api.scryfall.com/cards/prm/90248/en?format=image&version=normal&face=back
+Attempting to fetch: https://api.scryfall.com/cards/war/197/en?format=image&version=normal
+Attempting to fetch: https://api.scryfall.com/cards/por/91/en?format=image&version=normal
+/home/solomon/.cache/forge/pics/cards/PRM/Torrent Sculptor.fullborder.jpg
+/home/solomon/.cache/forge/pics/cards/CHK/Kitsune Blademaster.fullborder.jpg
+/home/solomon/.cache/forge/pics/cards/FUT/Jhoira of the Ghitu.fullborder.jpg
+/home/solomon/.cache/forge/pics/cards/DOM/Orcish Vandal.fullborder.jpg
+/home/solomon/.cache/forge/pics/cards/WAR/Feather, the Redeemed.fullborder.jpg
+/home/solomon/.cache/forge/pics/cards/J22/Distinguished Conjurer.fullborder.jpg
+Saved image to /home/solomon/.cache/forge/pics/cards/PRM/Torrent Sculptor.fullborder.jpg
+/home/solomon/.cache/forge/pics/cards/PT/Ebon Dragon.fullborder.jpg
+Saved image to /home/solomon/.cache/forge/pics/cards/WAR/Feather, the Redeemed.fullborder.jpg
+Saved image to /home/solomon/.cache/forge/pics/cards/DOM/Orcish Vandal.fullborder.jpg
+/home/solomon/.cache/forge/pics/cards/PRM/Flamethrower Sonata.fullborder.jpg
+Saved image to /home/solomon/.cache/forge/pics/cards/CHK/Kitsune Blademaster.fullborder.jpg
+Saved image to /home/solomon/.cache/forge/pics/cards/FUT/Jhoira of the Ghitu.fullborder.jpg
+Saved image to /home/solomon/.cache/forge/pics/cards/J22/Distinguished Conjurer.fullborder.jpg
+Saved image to /home/solomon/.cache/forge/pics/cards/PT/Ebon Dragon.fullborder.jpg
+Saved image to /home/solomon/.cache/forge/pics/cards/PRM/Flamethrower Sonata.fullborder.jpg
+Backface fetched: c:Torrent Sculptor|PRM|1$alt
+Looking for resource sprites/enemy/fiend/demon_3.atlas... Found!
 Looking for resource sprites/gold.atlas... Found!
-Looking for resource sprites/enemy/undead/wraith.atlas... Found!
+Looking for resource sprites/enemy/plant/slimefoot.atlas... Found!
 Looking for resource sprites/manashards.atlas... Found!
-Looking for resource sprites/treasure.atlas... Found!
-Looking up ./res/adventure/common/music/cave//./res/adventure/common/music/cave/cave2.mp3
-Looking for resource decks/standard/wraithswampwalk.dck... Found!
-Attempting to fetch: https://api.scryfall.com/cards/zen/240a/en?format=image&version=normal
-/home/solomon/.cache/forge/pics/cards/ZEN/Swamp6.fullborder.jpg
-Saved image to /home/solomon/.cache/forge/pics/cards/ZEN/Swamp6.fullborder.jpg
-Attempting to fetch: https://api.scryfall.com/cards/zen/238/en?format=image&version=normal
-Attempting to fetch: https://api.scryfall.com/cards/30a/104/en?format=image&version=normal
-/home/solomon/.cache/forge/pics/cards/30A/Evil Presence1.fullborder.jpg
-/home/solomon/.cache/forge/pics/cards/ZEN/Swamp1.fullborder.jpg
-Saved image to /home/solomon/.cache/forge/pics/cards/30A/Evil Presence1.fullborder.jpg
-Saved image to /home/solomon/.cache/forge/pics/cards/ZEN/Swamp1.fullborder.jpg
-Attempting to fetch: https://api.scryfall.com/cards/zen/238a/en?format=image&version=normal
-/home/solomon/.cache/forge/pics/cards/ZEN/Swamp2.fullborder.jpg
-Saved image to /home/solomon/.cache/forge/pics/cards/ZEN/Swamp2.fullborder.jpg
-Attempting to fetch: https://api.scryfall.com/cards/mir/117/en?format=image&version=normal
-/home/solomon/.cache/forge/pics/cards/MI/Dirtwater Wraith.fullborder.jpg
-Saved image to /home/solomon/.cache/forge/pics/cards/MI/Dirtwater Wraith.fullborder.jpg
-Attempting to fetch: https://api.scryfall.com/cards/ons/124/en?format=image&version=normal
-/home/solomon/.cache/forge/pics/cards/ON/Anurid Murkdiver.fullborder.jpg
-Saved image to /home/solomon/.cache/forge/pics/cards/ON/Anurid Murkdiver.fullborder.jpg
-Attempting to fetch: https://api.scryfall.com/cards/zen/240/en?format=image&version=normal
-/home/solomon/.cache/forge/pics/cards/ZEN/Swamp5.fullborder.jpg
-Saved image to /home/solomon/.cache/forge/pics/cards/ZEN/Swamp5.fullborder.jpg
+Looking for resource sprites/booster.atlas... Found!
+Looking for resource sprites/enemy/plant/fungus_golgari.atlas... Found!
+Looking for resource sprites/enemy/aberration/geonid.atlas... Found!
+Looking for resource sprites/enemy/plant/fungus.atlas... Found!
+Looking up ./res/adventure/common/music/cave//./res/adventure/common/music/cave/cave1.mp3
+Looking for resource ui/sprite_markers.png... Found!
+Loading auxiliary sprites.
+Looking for resource particle_effects/sparks.p... Found!
+Looking for resource skin/cursor1.png... Found!
+Looking for resource decks/standard/geonid.dck... Found!
+Attempting to fetch: https://api.scryfall.com/cards/tsr/237/en?format=image&version=normal
+/home/solomon/.cache/forge/pics/cards/TSR/Thallid Shell-Dweller.fullborder.jpg
+Saved image to /home/solomon/.cache/forge/pics/cards/TSR/Thallid Shell-Dweller.fullborder.jpg
+Attempting to fetch: https://api.scryfall.com/cards/pc2/153/en?format=image&version=normal
+/home/solomon/.cache/forge/pics/cards/PC2/Forest3.fullborder.jpg
+Saved image to /home/solomon/.cache/forge/pics/cards/PC2/Forest3.fullborder.jpg
+Attempting to fetch: https://api.scryfall.com/cards/mid/181/en?format=image&version=normal&face=front
+/home/solomon/.cache/forge/pics/cards/MID/Deathbonnet Sprout.fullborder.jpg
+Saved image to /home/solomon/.cache/forge/pics/cards/MID/Deathbonnet Sprout.fullborder.jpg
+Attempting to fetch: https://api.scryfall.com/cards/mid/181/en?format=image&version=normal&face=back
+/home/solomon/.cache/forge/pics/cards/MID/Deathbonnet Hulk.fullborder.jpg
+Saved image to /home/solomon/.cache/forge/pics/cards/MID/Deathbonnet Hulk.fullborder.jpg
+Attempting to fetch: https://api.scryfall.com/cards/mma/167/en?format=image&version=normal
+/home/solomon/.cache/forge/pics/cards/MMA/Thallid.fullborder.jpg
+Saved image to /home/solomon/.cache/forge/pics/cards/MMA/Thallid.fullborder.jpg
+Attempting to fetch: https://api.scryfall.com/cards/me2/165/en?format=image&version=normal
+/home/solomon/.cache/forge/pics/cards/ME2/Fungal Bloom.fullborder.jpg
+Saved image to /home/solomon/.cache/forge/pics/cards/ME2/Fungal Bloom.fullborder.jpg
+Attempting to fetch: https://api.scryfall.com/cards/tsr/231/en?format=image&version=normal
+/home/solomon/.cache/forge/pics/cards/TSR/Sporesower Thallid.fullborder.jpg
+Saved image to /home/solomon/.cache/forge/pics/cards/TSR/Sporesower Thallid.fullborder.jpg
+Attempting to fetch: https://api.scryfall.com/cards/m10/194/en?format=image&version=normal
+/home/solomon/.cache/forge/pics/cards/M10/Mold Adder.fullborder.jpg
+Saved image to /home/solomon/.cache/forge/pics/cards/M10/Mold Adder.fullborder.jpg
 Looking up ./res/adventure/common/music/cave//./res/adventure/common/music/cave/cave3.mp3
-Attempting to fetch: https://api.scryfall.com/cards/roe/102/en?format=image&version=normal
-Attempting to fetch: https://api.scryfall.com/cards/dmr/102/en?format=image&version=normal
-Attempting to fetch: https://api.scryfall.com/cards/usg/119/en?format=image&version=normal
-Attempting to fetch: https://api.scryfall.com/cards/wth/164/en?format=image&version=normal
-Attempting to fetch: https://api.scryfall.com/cards/bng/24/en?format=image&version=normal
-/home/solomon/.cache/forge/pics/cards/WL/Gemstone Mine.fullborder.jpg
-/home/solomon/.cache/forge/pics/cards/BNG/Plea for Guidance.fullborder.jpg
-/home/solomon/.cache/forge/pics/cards/ROE/Contaminated Ground.fullborder.jpg
-Saved image to /home/solomon/.cache/forge/pics/cards/BNG/Plea for Guidance.fullborder.jpg
-/home/solomon/.cache/forge/pics/cards/DMR/Street Wraith1.fullborder.jpg
-Saved image to /home/solomon/.cache/forge/pics/cards/ROE/Contaminated Ground.fullborder.jpg
-/home/solomon/.cache/forge/pics/cards/US/Bog Raiders.fullborder.jpg
-Saved image to /home/solomon/.cache/forge/pics/cards/WL/Gemstone Mine.fullborder.jpg
-Saved image to /home/solomon/.cache/forge/pics/cards/DMR/Street Wraith1.fullborder.jpg
-Saved image to /home/solomon/.cache/forge/pics/cards/US/Bog Raiders.fullborder.jpg
-Attempting to fetch: https://api.scryfall.com/cards/zen/241/en?format=image&version=normal
-/home/solomon/.cache/forge/pics/cards/ZEN/Swamp7.fullborder.jpg
-Saved image to /home/solomon/.cache/forge/pics/cards/ZEN/Swamp7.fullborder.jpg
+Looking for resource particle_effects/blood.p... Found!
+Attempting to fetch: https://api.scryfall.com/cards/rav/228/en?format=image&version=normal
+Attempting to fetch: https://api.scryfall.com/cards/dom/84/en?format=image&version=normal
+Attempting to fetch: https://api.scryfall.com/cards/ons/317/en?format=image&version=normal
+Attempting to fetch: https://api.scryfall.com/cards/clb/133/en?format=image&version=normal
+Attempting to fetch: https://api.scryfall.com/cards/tsp/213/en?format=image&version=normal
+Attempting to fetch: https://api.scryfall.com/cards/apc/96/en?format=image&version=normal
+Attempting to fetch: https://api.scryfall.com/cards/grn/190/en?format=image&version=normal
+/home/solomon/.cache/forge/pics/cards/RAV/Selesnya Evangel.fullborder.jpg
+/home/solomon/.cache/forge/pics/cards/DOM/Deathbloom Thallid.fullborder.jpg
+/home/solomon/.cache/forge/pics/cards/TSP/Savage Thallid.fullborder.jpg
+/home/solomon/.cache/forge/pics/cards/ON/Forgotten Cave.fullborder.jpg
+/home/solomon/.cache/forge/pics/cards/AP/Death Mutation.fullborder.jpg
+/home/solomon/.cache/forge/pics/cards/CLB/Mold Folk.fullborder.jpg
+Saved image to /home/solomon/.cache/forge/pics/cards/DOM/Deathbloom Thallid.fullborder.jpg
+Saved image to /home/solomon/.cache/forge/pics/cards/RAV/Selesnya Evangel.fullborder.jpg
+/home/solomon/.cache/forge/pics/cards/GRN/Molderhulk.fullborder.jpg
+Saved image to /home/solomon/.cache/forge/pics/cards/CLB/Mold Folk.fullborder.jpg
+Saved image to /home/solomon/.cache/forge/pics/cards/ON/Forgotten Cave.fullborder.jpg
+Saved image to /home/solomon/.cache/forge/pics/cards/AP/Death Mutation.fullborder.jpg
+Saved image to /home/solomon/.cache/forge/pics/cards/TSP/Savage Thallid.fullborder.jpg
+Saved image to /home/solomon/.cache/forge/pics/cards/GRN/Molderhulk.fullborder.jpg
+(175.53474,23.52821) is already connected to (167.71884,37.809566)
+(175.44687,24.884228) is already connected to (167.83575,37.595036)
+(175.37418,25.879494) is already connected to (167.9989,37.32151)
+(175.28255,26.892088) is already connected to (168.12529,37.12471)
+(175.17786,27.969875) is already connected to (168.26155,36.929214)
+(175.03535,29.14153) is already connected to (168.41632,36.72807)
+(174.90872,30.10804) is already connected to (168.59787,36.51935)
+Looking for resource decks/standard/fungus_golgari.dck... Found!
+Attempting to fetch: https://api.scryfall.com/cards/tsp/298/en?format=image&version=normal
+/home/solomon/.cache/forge/pics/cards/TSP/Forest1.fullborder.jpg
+Saved image to /home/solomon/.cache/forge/pics/cards/TSP/Forest1.fullborder.jpg
+Attempting to fetch: https://api.scryfall.com/cards/fem/74d/en?format=image&version=normal
+/home/solomon/.cache/forge/pics/cards/FE/Thallid4.fullborder.jpg
+Saved image to /home/solomon/.cache/forge/pics/cards/FE/Thallid4.fullborder.jpg
+Attempting to fetch: https://api.scryfall.com/cards/prm/72315/en?format=image&version=normal
+/home/solomon/.cache/forge/pics/cards/PRM/Overgrown Tomb.fullborder.jpg
+Saved image to /home/solomon/.cache/forge/pics/cards/PRM/Overgrown Tomb.fullborder.jpg
+Attempting to fetch: https://api.scryfall.com/cards/tsr/109/en?format=image&version=normal
+/home/solomon/.cache/forge/pics/cards/TSR/Deathspore Thallid.fullborder.jpg
+Saved image to /home/solomon/.cache/forge/pics/cards/TSR/Deathspore Thallid.fullborder.jpg
+Attempting to fetch: https://api.scryfall.com/cards/tsp/227/en?format=image&version=normal
+/home/solomon/.cache/forge/pics/cards/TSP/Thelon of Havenwood.fullborder.jpg
+Saved image to /home/solomon/.cache/forge/pics/cards/TSP/Thelon of Havenwood.fullborder.jpg
+Attempting to fetch: https://api.scryfall.com/cards/mom/92/en?format=image&version=normal&face=front
+/home/solomon/.cache/forge/pics/cards/MOM/Blightreaper Thallid.fullborder.jpg
+Saved image to /home/solomon/.cache/forge/pics/cards/MOM/Blightreaper Thallid.fullborder.jpg
+Attempting to fetch: https://api.scryfall.com/cards/tsp/291/en?format=image&version=normal
+/home/solomon/.cache/forge/pics/cards/TSP/Swamp2.fullborder.jpg
+Saved image to /home/solomon/.cache/forge/pics/cards/TSP/Swamp2.fullborder.jpg
+Attempting to fetch: https://api.scryfall.com/cards/dom/205/en?format=image&version=normal
+/home/solomon/.cache/forge/pics/cards/DOM/Slimefoot, the Stowaway.fullborder.jpg
+Saved image to /home/solomon/.cache/forge/pics/cards/DOM/Slimefoot, the Stowaway.fullborder.jpg
 Looking up ./res/adventure/common/music/cave//./res/adventure/common/music/cave/cave1.mp3
-Attempting to fetch: https://api.scryfall.com/cards/plst/MH2-253/en?format=image&version=normal
-Attempting to fetch: https://api.scryfall.com/cards/zen/102/en?format=image&version=normal
-Attempting to fetch: https://api.scryfall.com/cards/gpt/153/en?format=image&version=normal
-/home/solomon/.cache/forge/pics/cards/ZEN/Mind Sludge.fullborder.jpg
-/home/solomon/.cache/forge/pics/cards/PLIST/Rustvale Bridge.fullborder.jpg
-/home/solomon/.cache/forge/pics/cards/GP/Mizzium Transreliquat.fullborder.jpg
-Saved image to /home/solomon/.cache/forge/pics/cards/ZEN/Mind Sludge.fullborder.jpg
-Saved image to /home/solomon/.cache/forge/pics/cards/PLIST/Rustvale Bridge.fullborder.jpg
-Saved image to /home/solomon/.cache/forge/pics/cards/GP/Mizzium Transreliquat.fullborder.jpg
-Attempting to fetch: https://api.scryfall.com/cards/frf/39/en?format=image&version=normal
-Attempting to fetch: https://api.scryfall.com/cards/j25/10/en?format=image&version=normal
-Attempting to fetch: https://api.scryfall.com/cards/rtr/76/en?format=image&version=normal
-Attempting to fetch: https://api.scryfall.com/cards/m21/327/en?format=image&version=normal
-Attempting to fetch: https://api.scryfall.com/cards/ncc/118/en?format=image&version=normal
-Attempting to fetch: https://api.scryfall.com/cards/ymid/31/en?format=image&version=normal
-/home/solomon/.cache/forge/pics/cards/J25/Revoke Demise.fullborder.jpg
-/home/solomon/.cache/forge/pics/cards/FRF/Lotus Path Djinn.fullborder.jpg
-/home/solomon/.cache/forge/pics/cards/NCC/Jailbreak2.fullborder.jpg
-/home/solomon/.cache/forge/pics/cards/RTR/Shrieking Affliction.fullborder.jpg
-/home/solomon/.cache/forge/pics/cards/YMID/Puppet Raiser.fullborder.jpg
-Saved image to /home/solomon/.cache/forge/pics/cards/J25/Revoke Demise.fullborder.jpg
-Saved image to /home/solomon/.cache/forge/pics/cards/NCC/Jailbreak2.fullborder.jpg
-Saved image to /home/solomon/.cache/forge/pics/cards/RTR/Shrieking Affliction.fullborder.jpg
-Saved image to /home/solomon/.cache/forge/pics/cards/FRF/Lotus Path Djinn.fullborder.jpg
-/home/solomon/.cache/forge/pics/cards/M21/Teferi's Wavecaster.fullborder.jpg
-Saved image to /home/solomon/.cache/forge/pics/cards/YMID/Puppet Raiser.fullborder.jpg
-Saved image to /home/solomon/.cache/forge/pics/cards/M21/Teferi's Wavecaster.fullborder.jpg
-Attempting to fetch: https://api.scryfall.com/cards/30a/95/en?format=image&version=normal
-/home/solomon/.cache/forge/pics/cards/30A/Bog Wraith1.fullborder.jpg
-Saved image to /home/solomon/.cache/forge/pics/cards/30A/Bog Wraith1.fullborder.jpg
-Looking up ./res/adventure/common/music/cave//./res/adventure/common/music/cave/cave1.mp3
-Attempting to fetch: https://api.scryfall.com/cards/gpt/124/en?format=image&version=normal
-/home/solomon/.cache/forge/pics/cards/GP/Orzhov Pontiff.fullborder.jpg
-Saved image to /home/solomon/.cache/forge/pics/cards/GP/Orzhov Pontiff.fullborder.jpg
-(190.24754,170.61821) is already connected to (189.72227,177.02379)
-Looking for resource decks/standard/bonedragon.dck... Found!
-Attempting to fetch: https://api.scryfall.com/cards/e01/93/en?format=image&version=normal
-/home/solomon/.cache/forge/pics/cards/E01/Dragonskull Summit.fullborder.jpg
-Saved image to /home/solomon/.cache/forge/pics/cards/E01/Dragonskull Summit.fullborder.jpg
-Attempting to fetch: https://api.scryfall.com/cards/clb/462/en?format=image&version=normal
-/home/solomon/.cache/forge/pics/cards/CLB/Swamp4.fullborder.jpg
-Saved image to /home/solomon/.cache/forge/pics/cards/CLB/Swamp4.fullborder.jpg
-Attempting to fetch: https://api.scryfall.com/cards/clb/466/en?format=image&version=normal
-/home/solomon/.cache/forge/pics/cards/CLB/Mountain4.fullborder.jpg
-Saved image to /home/solomon/.cache/forge/pics/cards/CLB/Mountain4.fullborder.jpg
-Attempting to fetch: https://api.scryfall.com/cards/som/79/en?format=image&version=normal
-/home/solomon/.cache/forge/pics/cards/SOM/Skithiryx, the Blight Dragon.fullborder.jpg
-Saved image to /home/solomon/.cache/forge/pics/cards/SOM/Skithiryx, the Blight Dragon.fullborder.jpg
-Attempting to fetch: https://api.scryfall.com/cards/clb/461/en?format=image&version=normal
-Attempting to fetch: https://api.scryfall.com/cards/afr/100/en?format=image&version=normal
-/home/solomon/.cache/forge/pics/cards/CLB/Swamp3.fullborder.jpg
-Saved image to /home/solomon/.cache/forge/pics/cards/CLB/Swamp3.fullborder.jpg
-/home/solomon/.cache/forge/pics/cards/AFR/Ebondeath, Dracolich1.fullborder.jpg
-Saved image to /home/solomon/.cache/forge/pics/cards/AFR/Ebondeath, Dracolich1.fullborder.jpg
-Attempting to fetch: https://api.scryfall.com/cards/c17/119/en?format=image&version=normal
-/home/solomon/.cache/forge/pics/cards/C17/Palace Siege.fullborder.jpg
-Saved image to /home/solomon/.cache/forge/pics/cards/C17/Palace Siege.fullborder.jpg
-Attempting to fetch: https://api.scryfall.com/cards/hbg/77/en?format=image&version=normal
-/home/solomon/.cache/forge/pics/cards/HBG/Gate of the Black Dragon.fullborder.jpg
-Saved image to /home/solomon/.cache/forge/pics/cards/HBG/Gate of the Black Dragon.fullborder.jpg
-Looking up ./res/adventure/common/music/cave//./res/adventure/common/music/cave/cave1.mp3
-[null|null]
-java.util.regex.PatternSyntaxException: Illegal repetition near index 1
-{R}
- ^
-Attempting to fetch: https://api.scryfall.com/cards/ydmu/8/en?format=image&version=normal
-Attempting to fetch: https://api.scryfall.com/cards/prm/92722/en?format=image&version=normal
-Attempting to fetch: https://api.scryfall.com/cards/blb/257/en?format=image&version=normal
-Attempting to fetch: https://api.scryfall.com/cards/clb/670/en?format=image&version=normal
-Attempting to fetch: https://api.scryfall.com/cards/mir/112/en?format=image&version=normal
-/home/solomon/.cache/forge/pics/cards/YDMU/Darigaaz's Whelp.fullborder.jpg
-/home/solomon/.cache/forge/pics/cards/CLB/Brainstealer Dragon2.fullborder.jpg
-/home/solomon/.cache/forge/pics/cards/PRM/Black Dragon.fullborder.jpg
-Saved image to /home/solomon/.cache/forge/pics/cards/YDMU/Darigaaz's Whelp.fullborder.jpg
-Saved image to /home/solomon/.cache/forge/pics/cards/PRM/Black Dragon.fullborder.jpg
-Saved image to /home/solomon/.cache/forge/pics/cards/CLB/Brainstealer Dragon2.fullborder.jpg
-/home/solomon/.cache/forge/pics/cards/BLB/Mudflat Village.fullborder.jpg
-/home/solomon/.cache/forge/pics/cards/MI/Catacomb Dragon.fullborder.jpg
-Saved image to /home/solomon/.cache/forge/pics/cards/BLB/Mudflat Village.fullborder.jpg
-Saved image to /home/solomon/.cache/forge/pics/cards/MI/Catacomb Dragon.fullborder.jpg
+Attempting to fetch: https://api.scryfall.com/cards/dom/106/en?format=image&version=normal
+Attempting to fetch: https://api.scryfall.com/cards/grn/196/en?format=image&version=normal
+Attempting to fetch: https://api.scryfall.com/cards/dom/181/en?format=image&version=normal
+Attempting to fetch: https://api.scryfall.com/cards/one/451/en?format=image&version=normal
+Attempting to fetch: https://api.scryfall.com/cards/eld/337/en?format=image&version=normal
+/home/solomon/.cache/forge/pics/cards/GRN/Rhizome Lurcher.fullborder.jpg
+/home/solomon/.cache/forge/pics/cards/DOM/Sporecrown Thallid.fullborder.jpg
+/home/solomon/.cache/forge/pics/cards/DOM/Thallid Omnivore.fullborder.jpg
+Saved image to /home/solomon/.cache/forge/pics/cards/GRN/Rhizome Lurcher.fullborder.jpg
+/home/solomon/.cache/forge/pics/cards/ELD/Happily Ever After2.fullborder.jpg
+/home/solomon/.cache/forge/pics/cards/ONE/Cankerbloom3.fullborder.jpg
+Saved image to /home/solomon/.cache/forge/pics/cards/DOM/Sporecrown Thallid.fullborder.jpg
+Saved image to /home/solomon/.cache/forge/pics/cards/DOM/Thallid Omnivore.fullborder.jpg
+Saved image to /home/solomon/.cache/forge/pics/cards/ONE/Cankerbloom3.fullborder.jpg
+Saved image to /home/solomon/.cache/forge/pics/cards/ELD/Happily Ever After2.fullborder.jpg
+Attempting to fetch: https://api.scryfall.com/cards/tsr/244/en?format=image&version=normal
+/home/solomon/.cache/forge/pics/cards/TSR/Utopia Mycon.fullborder.jpg
+Saved image to /home/solomon/.cache/forge/pics/cards/TSR/Utopia Mycon.fullborder.jpg
+Attempting to fetch: https://api.scryfall.com/cards/clb/243/en?format=image&version=normal
+/home/solomon/.cache/forge/pics/cards/CLB/Myconid Spore Tender.fullborder.jpg
+Saved image to /home/solomon/.cache/forge/pics/cards/CLB/Myconid Spore Tender.fullborder.jpg
+Looking up ./res/adventure/common/music/cave//./res/adventure/common/music/cave/cave2.mp3
+Attempting to fetch: https://api.scryfall.com/cards/m14/196/en?format=image&version=normal
+Attempting to fetch: https://api.scryfall.com/cards/fut/152/en?format=image&version=normal
+Attempting to fetch: https://api.scryfall.com/cards/mh1/237/en?format=image&version=normal
+Attempting to fetch: https://api.scryfall.com/cards/fem/75/en?format=image&version=normal
+Attempting to fetch: https://api.scryfall.com/cards/fut/140/en?format=image&version=normal
+Attempting to fetch: https://api.scryfall.com/cards/lci/125/en?format=image&version=normal
+/home/solomon/.cache/forge/pics/cards/M14/Sporemound.fullborder.jpg
+/home/solomon/.cache/forge/pics/cards/LCI/Synapse Necromage.fullborder.jpg
+/home/solomon/.cache/forge/pics/cards/MH1/Cave of Temptation.fullborder.jpg
+/home/solomon/.cache/forge/pics/cards/FUT/Utopia Mycon.fullborder.jpg
+/home/solomon/.cache/forge/pics/cards/FUT/Sporoloth Ancient.fullborder.jpg
+/home/solomon/.cache/forge/pics/cards/FE/Thallid Devourer.fullborder.jpg
+Saved image to /home/solomon/.cache/forge/pics/cards/LCI/Synapse Necromage.fullborder.jpg
+Saved image to /home/solomon/.cache/forge/pics/cards/MH1/Cave of Temptation.fullborder.jpg
+Saved image to /home/solomon/.cache/forge/pics/cards/M14/Sporemound.fullborder.jpg
+Saved image to /home/solomon/.cache/forge/pics/cards/FUT/Utopia Mycon.fullborder.jpg
+Saved image to /home/solomon/.cache/forge/pics/cards/FUT/Sporoloth Ancient.fullborder.jpg
+Saved image to /home/solomon/.cache/forge/pics/cards/FE/Thallid Devourer.fullborder.jpg
