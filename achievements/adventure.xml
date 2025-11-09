@@ -1,11 +1,11 @@
 <achievements>
-    <a best="68" current="11" name="GameWinStreak" time="1757617677895"/>
-    <a best="90" current="11" name="MatchWinStreak" time="1754583500036"/>
-    <a best="346" name="TotalGameWins" time="1762552813648"/>
-    <a best="341" name="TotalMatchWins" time="1762552813648"/>
+    <a best="68" current="5" name="GameWinStreak" time="1757617677895"/>
+    <a best="90" current="5" name="MatchWinStreak" time="1754583500036"/>
+    <a best="359" name="TotalGameWins" time="1762716048132"/>
+    <a best="353" name="TotalMatchWins" time="1762716048132"/>
     <a best="4" name="NeedForSpeed" time="1753212932631"/>
     <a best="-35" name="Overkill" time="1757615366766"/>
-    <a best="19" name="LifeToSpare" time="1757540620896"/>
+    <a best="41" name="LifeToSpare" time="1762712926627"/>
     <a best="1" name="Hellbent" time="1750264058326"/>
     <a best="2" name="ArcaneMaster" time="1753212932632"/>
     <a best="4" name="StormChaser" time="1753388717211"/>
